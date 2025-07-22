@@ -15,7 +15,7 @@ namespace _02_Variables
 
             //double number;
 
-            //number = 4.85;
+            //number = 34.55;
 
             //Console.WriteLine(number);
 
@@ -24,11 +24,11 @@ namespace _02_Variables
 
             //double applePrice, orangePrice, strawberryPrice, potatoPrice, tomatoPrice;
 
-            //applePrice = 14.85;
-            //orangePrice = 20.95;
-            //strawberryPrice = 45;
-            //potatoPrice = 9.74;
-            //tomatoPrice = 6.88;
+            //applePrice = 24.85;
+            //orangePrice = 10.95;
+            //strawberryPrice = 35;
+            //potatoPrice = 6.74;
+            //tomatoPrice = 7.88;
 
             //Console.WriteLine("---- Single Apple Price:" + applePrice + " TL");
             //Console.WriteLine("---- Single Orange Price:" + orangePrice + " TL");
@@ -55,13 +55,13 @@ namespace _02_Variables
 
             //Console.WriteLine("Bought Fruit: Apple - " + "Single Price: " + applePrice + " - Gram: " + appleGram + " - Total Payment: " + appleTotalPrice);
 
-            //Console.WriteLine("Alınan Ürün: Portakal - " + "Single Price: " + orangePrice + " - Gram: " + orangeGram + " - Total Payment: " + orangeTotalPrice);
+            //Console.WriteLine("Bought Fruit: Portakal - " + "Single Price: " + orangePrice + " - Gram: " + orangeGram + " - Total Payment: " + orangeTotalPrice);
 
-            //Console.WriteLine("Alınan Ürün: Çilek - " + "Single Price: " + strawberryPrice + " - Gram: " + strawberryGram + " - Total Payment: " + strawberryTotalPrice);
+            //Console.WriteLine("Bought Fruit: Çilek - " + "Single Price: " + strawberryPrice + " - Gram: " + strawberryGram + " - Total Payment: " + strawberryTotalPrice);
 
-            //Console.WriteLine("Alınan Ürün: Patates - " + "Single Price: " + potatoPrice + " - Gram: " + potatoGram + " - Total Payment: " + potatoTotalPrice);
+            //Console.WriteLine("Bought Vegetable: Patates - " + "Single Price: " + potatoPrice + " - Gram: " + potatoGram + " - Total Payment: " + potatoTotalPrice);
 
-            //Console.WriteLine("Alınan Ürün: Domates - " + "Single Price: " + tomatoPrice + " - Gram: " + tomatoGram + " - Total Payment: " + tomatoTotalPrice);
+            //Console.WriteLine("Bought Fruit: Domates - " + "Single Price: " + tomatoPrice + " - Gram: " + tomatoGram + " - Total Payment: " + tomatoTotalPrice);
 
             //double shoppingTotalPrice = appleTotalPrice + orangeTotalPrice + strawberryTotalPrice + tomatoTotalPrice + potatoTotalPrice;
 
